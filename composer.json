@@ -1,11 +1,11 @@
 {
-    "name": "astronphp/frontview",
+    "name": "dezworkastronphp/frontview",
     "type": "library",
     "license": "MIT",
     "minimum-stability": "dev",
     "support": {
-        "issues": "https://github.com/astronphp/frontview/issues",
-        "source": "https://github.com/astronphp/frontview/"
+        "issues": "https://github.com/dezworkastronphp/frontview/issues",
+        "source": "https://github.com/dezworkastronphp/frontview/"
     },
     "config": {
         "sort-packages": true
