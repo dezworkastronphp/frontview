@@ -1,0 +1,24 @@
+{
+    "name": "astronphp/frontview",
+    "type": "library",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "support": {
+        "issues": "https://github.com/astronphp/frontview/issues",
+        "source": "https://github.com/astronphp/frontview/"
+    },
+    "config": {
+        "sort-packages": true
+    },
+    "require": {
+        "twig/twig": "^2.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Astronphp\\FrontView\\": [
+                "src/",
+                "tests/"
+            ]
+        }
+    }
+}
